@@ -1,0 +1,132 @@
+---
+title: "AI Tools for Academic Research"
+subtitle: "A Guide for Environmental and Data Science Researchers"
+author: "emLab at UCSB"
+format:
+  revealjs:
+    theme: sky
+    slide-number: true
+    transition: slide
+    background-transition: fade
+    incremental: false
+---
+
+## Welcome
+
+::: {.incremental}
+- AI tools are transforming academic research
+- Especially relevant for data science, fisheries, remote sensing, and econometrics
+- This presentation covers key tools and applications
+:::
+
+## Research Context
+
+**emLab at UCSB** focuses on:
+
+- Data Science
+- Fisheries Management
+- Remote Sensing
+- Machine Learning
+- Economics & Econometrics
+
+## AI Tools Overview
+
+::: {.incremental}
+1. **Large Language Models (LLMs)**
+2. **Code Assistants**
+3. **Literature Review Tools**
+4. **Data Analysis Tools**
+5. **Visualization & Communication**
+:::
+
+## Large Language Models
+
+**ChatGPT, Claude, Gemini**
+
+- Draft research proposals
+- Summarize papers
+- Generate hypotheses
+- Explain complex concepts
+
+::: {.notes}
+These tools can accelerate the research process significantly
+:::
+
+## Code Assistants
+
+**GitHub Copilot, Cursor, Codeium**
+
+- R and Python code generation
+- Statistical analysis scripts
+- Data cleaning automation
+- ML model development
+
+## Literature Review
+
+**Elicit, Consensus, Research Rabbit**
+
+- Systematic literature searches
+- Paper summarization
+- Citation networks
+- Finding relevant studies
+
+## Data Analysis Tools
+
+**AI-Enhanced Analytics**
+
+- Automated EDA
+- Pattern detection in remote sensing data
+- Time series forecasting
+- Spatial analysis
+
+## Machine Learning Platforms
+
+**For Environmental Research**
+
+- Google Earth Engine (remote sensing)
+- TensorFlow/PyTorch (deep learning)
+- AutoML platforms
+- Model interpretation tools
+
+## Economic & Econometric Applications
+
+- Causal inference assistance
+- Model specification
+- Results interpretation
+- Publication-ready tables and figures
+
+## Best Practices
+
+::: {.incremental}
+1. **Verify** AI-generated content
+2. **Cite** appropriately
+3. **Maintain** data privacy
+4. **Document** your workflow
+5. **Stay** critical and skeptical
+:::
+
+## Getting Started
+
+**Recommended First Steps:**
+
+1. Try ChatGPT or Claude for literature summaries
+2. Install GitHub Copilot for coding assistance
+3. Explore Google Earth Engine for remote sensing
+4. Experiment with paper management tools
+
+## Resources
+
+- OpenAI Documentation
+- GitHub Copilot for Research
+- Google Earth Engine Tutorials
+- Quarto for Reproducible Research
+
+## Questions?
+
+**Contact:** emLab at UCSB
+
+**Learn More:** [emlab.ucsb.edu](https://emlab.ucsb.edu)
+
+---
+
+*This presentation created with Quarto and R*
