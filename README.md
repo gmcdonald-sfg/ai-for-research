@@ -46,6 +46,8 @@ The rendered HTML will be in the `docs/` directory.
 
 This repository uses GitHub Actions to automatically render and publish the presentation to GitHub Pages when changes are pushed to the `main` branch.
 
+**Note**: GitHub Pages must be enabled in repository settings with "GitHub Actions" as the source. See [GITHUB_PAGES_SETUP.md](GITHUB_PAGES_SETUP.md) for detailed setup instructions.
+
 ## ✏️ Editing the Presentation
 
 1. Edit `index.qmd` to modify content
