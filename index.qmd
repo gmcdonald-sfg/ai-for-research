@@ -28,7 +28,7 @@ format:
 
 ## A bit on different LLM options
 - **Google's Gemini**
-  - Good general purpose LLM for lit review, idea generation, etc
+  - General purpose, good for lit review, idea generation, etc
   - Excellent data privacy protections through UCSB license
 
 - **Anthropic's Claude**
@@ -36,8 +36,7 @@ format:
   - Direct agentic integration with your IDE
 
 - **GitHub Copilot**
-  - Excellent for coding
-  - Direct agentic integration with your IDE
+  - Designed for coding, integration with your IDE
   - Built in functionality for GitHub platform
   - Can use many LLM backends (Gemini, Claude, GPT, etc.)
 
@@ -48,6 +47,7 @@ format:
     - [Approved for P1/P2/P3/P4 sensitive data](https://cio.ucsb.edu/artificial-intelligence/genai-tools-ucsb)
     - Your data is not used to train models
     - Available for faculty and staff
+- Claude Code has settings for data retention, whether your code is used to train models, etc
 
 ## Coding Assistants
 
