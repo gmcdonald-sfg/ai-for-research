@@ -4,7 +4,7 @@ subtitle: "emLab Land and People lab meeting"
 author: "Gavin McDonald"
 format:
   revealjs:
-    theme: dracula
+    theme: dracula.scss
     slide-number: true
     transition: slide
     background-transition: fade
