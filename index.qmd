@@ -1,10 +1,10 @@
 ---
-title: "AI Tools for Academic Research"
-subtitle: "A Guide for Environmental and Data Science Researchers"
-author: "emLab at UCSB"
+title: "AI Tools for Research"
+subtitle: "emLab Land and People lab meeting"
+author: "Gavin McDonald"
 format:
   revealjs:
-    theme: sky
+    theme: dracula
     slide-number: true
     transition: slide
     background-transition: fade
@@ -13,53 +13,41 @@ format:
 
 ## Welcome
 
-::: {.incremental}
 - AI tools are transforming academic research
 - Especially relevant for data science, fisheries, remote sensing, and econometrics
 - This presentation covers key tools and applications
-:::
 
-## Research Context
 
-**emLab at UCSB** focuses on:
+## AI can help with each stage of the research process
 
-- Data Science
-- Fisheries Management
-- Remote Sensing
-- Machine Learning
-- Economics & Econometrics
+1. Idea generation
+2. Literature review
+3. Data analysis
+4. Writing and communication
+5. Collaboration and project management
 
-## AI Tools Overview
+## A bit on different LLM options
+- **Google's Gemini**
+  - Good general purpose LLM for lit review, idea generation, etc
+  - Excellent data privacy protections through UCSB license
+    - [Approved for P1/P2/P3/P4 sensitive data](https://cio.ucsb.edu/artificial-intelligence/genai-tools-ucsb)
+    - Your data is not used to train models
+    - Available for faculty and staff
+- **Anthropic's Claude**
+  - Excellent for coding
+  - Direct agentic integration with your IDE
+- **GitHub Copilot**
+  - Excellent for coding
+  - Built in functionality for GitHub platform
+  - Can use many LLM backends (Gemini, Claude, GPT, etc.)
 
-::: {.incremental}
-1. **Large Language Models (LLMs)**
-2. **Code Assistants**
-3. **Literature Review Tools**
-4. **Data Analysis Tools**
-5. **Visualization & Communication**
-:::
+## Coding Assistants
 
-## Large Language Models
+**GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
 
-**ChatGPT, Claude, Gemini**
-
-- Draft research proposals
-- Summarize papers
-- Generate hypotheses
-- Explain complex concepts
-
-::: {.notes}
-These tools can accelerate the research process significantly
-:::
-
-## Code Assistants
-
-**GitHub Copilot, Cursor, Codeium**
-
-- R and Python code generation
-- Statistical analysis scripts
-- Data cleaning automation
-- ML model development
+- Code generation (great for R, Python, etc)
+- Data science workflows
+- Machine learning model development
 
 ## Literature Review
 
@@ -79,54 +67,43 @@ These tools can accelerate the research process significantly
 - Time series forecasting
 - Spatial analysis
 
-## Machine Learning Platforms
-
-**For Environmental Research**
-
-- Google Earth Engine (remote sensing)
-- TensorFlow/PyTorch (deep learning)
-- AutoML platforms
-- Model interpretation tools
-
-## Economic & Econometric Applications
-
-- Causal inference assistance
-- Model specification
-- Results interpretation
-- Publication-ready tables and figures
-
 ## Best Practices
 
-::: {.incremental}
-1. **Verify** AI-generated content
-2. **Cite** appropriately
-3. **Maintain** data privacy
-4. **Document** your workflow
-5. **Stay** critical and skeptical
-:::
+1. **Verify** AI-generated content - *keep a human in the loop*
+2. **Remain** accountable
+3. **Cite** usage appropriately
+4. **Check** sources
+5. **Maintain** data privacy
+6. **Document** your workflow
+7. **Stay** critical, skeptical, and curious
 
 ## Getting Started
 
 **Recommended First Steps:**
 
-1. Try ChatGPT or Claude for literature summaries
-2. Install GitHub Copilot for coding assistance
-3. Explore Google Earth Engine for remote sensing
-4. Experiment with paper management tools
+1. Try Gemini for literature summaries
+2. Try making a Gemini Gem for a common task you have
+3. Become familiar with GitHub Copilot
+4. Try a Claude coding assistent in your IDE
 
 ## Resources
 
-- OpenAI Documentation
-- GitHub Copilot for Research
-- Google Earth Engine Tutorials
-- Quarto for Reproducible Research
+- [Free Copilot course from GitHub](https://github.com/orgs/community/discussions/184217)
+- [Getting started with Positron Assistant](https://positron.posit.co/assistant-getting-started.html)
 
-## Questions?
+## Thanks!
 
-**Contact:** emLab at UCSB
 
-**Learn More:** [emlab.ucsb.edu](https://emlab.ucsb.edu)
+*This presentation created with Quarto, Positron, and GitHub Copilot*
 
----
 
-*This presentation created with Quarto and R*
+**Reach out:** 
+Gavin McDonald
+
+[gmcdonald@bren.ucsb.edu](mailto: gmcdonald@bren.ucsb.edu)
+
+## Discussion
+
+- What AI tools are you currently using in your research?
+- What challenges have you faced with AI tools?
+- What are your thoughts on the ethical implications of AI in research?
