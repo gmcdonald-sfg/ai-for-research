@@ -47,7 +47,7 @@ format:
     - [Approved for P1/P2/P3/P4 sensitive data](https://cio.ucsb.edu/artificial-intelligence/genai-tools-ucsb)
     - Your data is not used to train models
     - Available for faculty and staff
-- Claude Code has settings for data retention, whether your code is used to train models, etc
+- Claude Code has [settings](https://privacy.claude.com/en/collections/10672565-data-handling-retention) for data retention, whether your code is used to train models, etc
 
 ## Coding Assistants
 
@@ -75,6 +75,20 @@ format:
 - Time series forecasting
 - Spatial analysis
 
+
+## Getting Started
+
+**Recommended First Steps:**
+
+1. Try Gemini for literature summaries
+2. Become familiar with GitHub Copilot
+3. Try a Claude or GitHub Copilot coding assistent in your IDE
+
+## Resources
+
+- [Free Copilot course from GitHub](https://github.com/orgs/community/discussions/184217)
+- [Getting started with Positron Assistant](https://positron.posit.co/assistant-getting-started.html)
+
 ## Best Practices
 
 1. **Verify** AI-generated content - *keep a human in the loop*
@@ -84,20 +98,6 @@ format:
 5. **Maintain** data privacy
 6. **Document** your workflow
 7. **Stay** critical, skeptical, and curious
-
-## Getting Started
-
-**Recommended First Steps:**
-
-1. Try Gemini for literature summaries
-2. Try making a Gemini Gem for a common task you have
-3. Become familiar with GitHub Copilot
-4. Try a Claude coding assistent in your IDE
-
-## Resources
-
-- [Free Copilot course from GitHub](https://github.com/orgs/community/discussions/184217)
-- [Getting started with Positron Assistant](https://positron.posit.co/assistant-getting-started.html)
 
 ## Thanks!
 
@@ -115,3 +115,4 @@ Gavin McDonald
 - What AI tools are you currently using in your research?
 - What challenges have you faced with AI tools?
 - What are your thoughts on the ethical implications of AI in research?
+- What are your best practices for using AI?

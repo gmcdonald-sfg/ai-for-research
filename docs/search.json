@@ -49,18 +49,11 @@
     "text": "Data Analysis Tools\nAI-Enhanced Analytics\n\nAutomated EDA\nPattern detection in remote sensing data\nTime series forecasting\nSpatial analysis"
   },
   {
-    "objectID": "index.html#best-practices",
-    "href": "index.html#best-practices",
-    "title": "AI Tools for Research",
-    "section": "Best Practices",
-    "text": "Best Practices\n\nVerify AI-generated content - keep a human in the loop\nRemain accountable\nCite usage appropriately\nCheck sources\nMaintain data privacy\nDocument your workflow\nStay critical, skeptical, and curious"
-  },
-  {
     "objectID": "index.html#getting-started",
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
     "section": "Getting Started",
-    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nTry making a Gemini Gem for a common task you have\nBecome familiar with GitHub Copilot\nTry a Claude coding assistent in your IDE"
+    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a Claude or GitHub Copilot coding assistent in your IDE"
   },
   {
     "objectID": "index.html#resources",
@@ -68,6 +61,13 @@
     "title": "AI Tools for Research",
     "section": "Resources",
     "text": "Resources\n\nFree Copilot course from GitHub\nGetting started with Positron Assistant"
+  },
+  {
+    "objectID": "index.html#best-practices",
+    "href": "index.html#best-practices",
+    "title": "AI Tools for Research",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nVerify AI-generated content - keep a human in the loop\nRemain accountable\nCite usage appropriately\nCheck sources\nMaintain data privacy\nDocument your workflow\nStay critical, skeptical, and curious"
   },
   {
     "objectID": "index.html#thanks",
@@ -81,6 +81,6 @@
     "href": "index.html#discussion",
     "title": "AI Tools for Research",
     "section": "Discussion",
-    "text": "Discussion\n\nWhat AI tools are you currently using in your research?\nWhat challenges have you faced with AI tools?\nWhat are your thoughts on the ethical implications of AI in research?"
+    "text": "Discussion\n\nWhat AI tools are you currently using in your research?\nWhat challenges have you faced with AI tools?\nWhat are your thoughts on the ethical implications of AI in research?\nWhat are your best practices for using AI?"
   }
 ]
