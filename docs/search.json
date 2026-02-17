@@ -18,7 +18,14 @@
     "href": "index.html#a-bit-on-different-llm-options",
     "title": "AI Tools for Research",
     "section": "A bit on different LLM options",
-    "text": "A bit on different LLM options\n\nGoogle’s Gemini\n\nGood general purpose LLM for lit review, idea generation, etc\nExcellent data privacy protections through UCSB license\n\nApproved for P1/P2/P3/P4 sensitive data\nYour data is not used to train models\nAvailable for faculty and staff\n\n\nAnthropic’s Claude\n\nExcellent for coding\nDirect agentic integration with your IDE\n\nGitHub Copilot\n\nExcellent for coding\nBuilt in functionality for GitHub platform\nCan use many LLM backends (Gemini, Claude, GPT, etc.)"
+    "text": "A bit on different LLM options\n\nGoogle’s Gemini\n\nGood general purpose LLM for lit review, idea generation, etc\nExcellent data privacy protections through UCSB license\n\nAnthropic’s Claude\n\nExcellent for coding\nDirect agentic integration with your IDE\n\nGitHub Copilot\n\nExcellent for coding\nDirect agentic integration with your IDE\nBuilt in functionality for GitHub platform\nCan use many LLM backends (Gemini, Claude, GPT, etc.)"
+  },
+  {
+    "objectID": "index.html#data-privacy",
+    "href": "index.html#data-privacy",
+    "title": "AI Tools for Research",
+    "section": "Data privacy",
+    "text": "Data privacy\n\nAlways check the data privacy policies of any AI tool you use\nUCSB’s Gemini license has excellent protections\n\nApproved for P1/P2/P3/P4 sensitive data\nYour data is not used to train models\nAvailable for faculty and staff"
   },
   {
     "objectID": "index.html#coding-assistants",
