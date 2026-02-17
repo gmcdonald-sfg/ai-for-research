@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "AI Tools for Academic Research",
+    "section": "Welcome",
+    "text": "Welcome\n\nAI tools are transforming academic research\nEspecially relevant for data science, fisheries, remote sensing, and econometrics\nThis presentation covers key tools and applications"
+  },
+  {
+    "objectID": "index.html#research-context",
+    "href": "index.html#research-context",
+    "title": "AI Tools for Academic Research",
+    "section": "Research Context",
+    "text": "Research Context\nemLab at UCSB focuses on:\n\nData Science\nFisheries Management\nRemote Sensing\nMachine Learning\nEconomics & Econometrics"
+  },
+  {
+    "objectID": "index.html#ai-tools-overview",
+    "href": "index.html#ai-tools-overview",
+    "title": "AI Tools for Academic Research",
+    "section": "AI Tools Overview",
+    "text": "AI Tools Overview\n\nLarge Language Models (LLMs)\nCode Assistants\nLiterature Review Tools\nData Analysis Tools\nVisualization & Communication"
+  },
+  {
+    "objectID": "index.html#large-language-models",
+    "href": "index.html#large-language-models",
+    "title": "AI Tools for Academic Research",
+    "section": "Large Language Models",
+    "text": "Large Language Models\nChatGPT, Claude, Gemini\n\nDraft research proposals\nSummarize papers\nGenerate hypotheses\nExplain complex concepts\n\n\nThese tools can accelerate the research process significantly"
+  },
+  {
+    "objectID": "index.html#code-assistants",
+    "href": "index.html#code-assistants",
+    "title": "AI Tools for Academic Research",
+    "section": "Code Assistants",
+    "text": "Code Assistants\nGitHub Copilot, Cursor, Codeium\n\nR and Python code generation\nStatistical analysis scripts\nData cleaning automation\nML model development"
+  },
+  {
+    "objectID": "index.html#literature-review",
+    "href": "index.html#literature-review",
+    "title": "AI Tools for Academic Research",
+    "section": "Literature Review",
+    "text": "Literature Review\nElicit, Consensus, Research Rabbit\n\nSystematic literature searches\nPaper summarization\nCitation networks\nFinding relevant studies"
+  },
+  {
+    "objectID": "index.html#data-analysis-tools",
+    "href": "index.html#data-analysis-tools",
+    "title": "AI Tools for Academic Research",
+    "section": "Data Analysis Tools",
+    "text": "Data Analysis Tools\nAI-Enhanced Analytics\n\nAutomated EDA\nPattern detection in remote sensing data\nTime series forecasting\nSpatial analysis"
+  },
+  {
+    "objectID": "index.html#machine-learning-platforms",
+    "href": "index.html#machine-learning-platforms",
+    "title": "AI Tools for Academic Research",
+    "section": "Machine Learning Platforms",
+    "text": "Machine Learning Platforms\nFor Environmental Research\n\nGoogle Earth Engine (remote sensing)\nTensorFlow/PyTorch (deep learning)\nAutoML platforms\nModel interpretation tools"
+  },
+  {
+    "objectID": "index.html#economic-econometric-applications",
+    "href": "index.html#economic-econometric-applications",
+    "title": "AI Tools for Academic Research",
+    "section": "Economic & Econometric Applications",
+    "text": "Economic & Econometric Applications\n\nCausal inference assistance\nModel specification\nResults interpretation\nPublication-ready tables and figures"
+  },
+  {
+    "objectID": "index.html#best-practices",
+    "href": "index.html#best-practices",
+    "title": "AI Tools for Academic Research",
+    "section": "Best Practices",
+    "text": "Best Practices\n\nVerify AI-generated content\nCite appropriately\nMaintain data privacy\nDocument your workflow\nStay critical and skeptical"
+  },
+  {
+    "objectID": "index.html#getting-started",
+    "href": "index.html#getting-started",
+    "title": "AI Tools for Academic Research",
+    "section": "Getting Started",
+    "text": "Getting Started\nRecommended First Steps:\n\nTry ChatGPT or Claude for literature summaries\nInstall GitHub Copilot for coding assistance\nExplore Google Earth Engine for remote sensing\nExperiment with paper management tools"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "AI Tools for Academic Research",
+    "section": "Resources",
+    "text": "Resources\n\nOpenAI Documentation\nGitHub Copilot for Research\nGoogle Earth Engine Tutorials\nQuarto for Reproducible Research"
+  },
+  {
+    "objectID": "index.html#questions",
+    "href": "index.html#questions",
+    "title": "AI Tools for Academic Research",
+    "section": "Questions?",
+    "text": "Questions?\nContact: emLab at UCSB\nLearn More: emlab.ucsb.edu"
+  }
+]
