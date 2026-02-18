@@ -18,7 +18,7 @@
     "href": "index.html#a-bit-on-different-llm-options",
     "title": "AI Tools for Research",
     "section": "A bit on different LLM options",
-    "text": "A bit on different LLM options\n\nGoogle’s Gemini\n\nGeneral purpose, good for lit review, idea generation, etc\nExcellent data privacy protections through UCSB license\n\nAnthropic’s Claude\n\nExcellent for coding\nDirect agentic integration with your IDE\n\nGitHub Copilot\n\nDesigned for coding, integration with your IDE\nBuilt in functionality for GitHub platform\nCan use many LLM backends (Gemini, Claude, GPT, etc.)"
+    "text": "A bit on different LLM options\n\nGoogle’s Gemini\n\nGeneral purpose, good for lit review, idea generation, etc\nExcellent data privacy protections through UCSB license\n\nAnthropic’s Claude\n\nExcellent for coding\nDirect agentic integration with your IDE\n\nGitHub Copilot\n\nDesigned for coding, integration with your IDE and Github\nCan use many LLM backends (Gemini, Claude, GPT, etc.)"
   },
   {
     "objectID": "index.html#data-privacy",
@@ -28,25 +28,32 @@
     "text": "Data privacy\n\nAlways check the data privacy policies of any AI tool you use\nUCSB’s Gemini license has excellent protections\n\nApproved for P1/P2/P3/P4 sensitive data\nYour data is not used to train models\nAvailable for faculty and staff\n\nClaude Code has settings for data retention, whether your code is used to train models, etc"
   },
   {
-    "objectID": "index.html#coding-assistants",
-    "href": "index.html#coding-assistants",
+    "objectID": "index.html#research-process-idea-generation",
+    "href": "index.html#research-process-idea-generation",
     "title": "AI Tools for Research",
-    "section": "Coding Assistants",
-    "text": "Coding Assistants\nGitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nCode generation (great for R, Python, etc)\nData science workflows\nMachine learning model development"
+    "section": "Research process: Idea Generation",
+    "text": "Research process: Idea Generation\n\nGemini, Claude, GPT\nGemini Deep Research"
   },
   {
-    "objectID": "index.html#literature-review",
-    "href": "index.html#literature-review",
+    "objectID": "index.html#research-process-literature-review",
+    "href": "index.html#research-process-literature-review",
     "title": "AI Tools for Research",
-    "section": "Literature Review",
-    "text": "Literature Review\nElicit, Consensus, Research Rabbit\n\nSystematic literature searches\nPaper summarization\nCitation networks\nFinding relevant studies"
+    "section": "Research process: Literature Review",
+    "text": "Research process: Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
-    "objectID": "index.html#data-analysis-tools",
-    "href": "index.html#data-analysis-tools",
+    "objectID": "index.html#research-process-data-analysis-with-coding-assistants",
+    "href": "index.html#research-process-data-analysis-with-coding-assistants",
     "title": "AI Tools for Research",
-    "section": "Data Analysis Tools",
-    "text": "Data Analysis Tools\nAI-Enhanced Analytics\n\nAutomated EDA\nPattern detection in remote sensing data\nTime series forecasting\nSpatial analysis"
+    "section": "Research process: Data analysis with coding Assistants",
+    "text": "Research process: Data analysis with coding Assistants\nGitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan be used in ‘ask’, ‘edit’, or ‘agent’ mode\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development"
+  },
+  {
+    "objectID": "index.html#research-process-writing-and-communication",
+    "href": "index.html#research-process-writing-and-communication",
+    "title": "AI Tools for Research",
+    "section": "Research process: Writing and Communication",
+    "text": "Research process: Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
     "objectID": "index.html#getting-started",

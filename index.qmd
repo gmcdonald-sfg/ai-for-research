@@ -36,8 +36,7 @@ format:
   - Direct agentic integration with your IDE
 
 - **GitHub Copilot**
-  - Designed for coding, integration with your IDE
-  - Built in functionality for GitHub platform
+  - Designed for coding, integration with your IDE and Github
   - Can use many LLM backends (Gemini, Claude, GPT, etc.)
 
 ## Data privacy
@@ -49,32 +48,35 @@ format:
     - Available for faculty and staff
 - Claude Code has [settings](https://privacy.claude.com/en/collections/10672565-data-handling-retention) for data retention, whether your code is used to train models, etc
 
-## Coding Assistants
+## Research process: Idea Generation
+
+- Gemini, Claude, GPT
+- Gemini Deep Research
+
+## Research process: Literature Review
+
+- Google Scholar Labs
+- Gemini Deep Research
+- Gemini Notebook LM
+- Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
+
+## Research process: Data analysis with coding Assistants
 
 **GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
 
+- Integrated directly into your IDE
+- Have access to your codebase, file structure
 - Code generation (great for R, Python, etc)
-- Data science workflows
-- Machine learning model development
+- Can be used in 'ask', 'edit', or 'agent' mode
+- Can run commands (if you let it)
+- Great for data science workflows
+- Can even be used for machine learning model development
 
-## Literature Review
+## Research process: Writing and Communication
 
-**Elicit, Consensus, Research Rabbit**
-
-- Systematic literature searches
-- Paper summarization
-- Citation networks
-- Finding relevant studies
-
-## Data Analysis Tools
-
-**AI-Enhanced Analytics**
-
-- Automated EDA
-- Pattern detection in remote sensing data
-- Time series forecasting
-- Spatial analysis
-
+- Gemini, Claude, GPT
+- Gemini Nano Banana for image generation
+- Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
 ## Getting Started
 
