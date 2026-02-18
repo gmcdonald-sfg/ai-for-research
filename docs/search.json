@@ -77,6 +77,13 @@
     "text": "Research process: Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
   },
   {
+    "objectID": "index.html#examples",
+    "href": "index.html#examples",
+    "title": "AI Tools for Research",
+    "section": "Examples",
+    "text": "Examples\n\nVincent Arel-Bundock’s Use LLMs to learn about any chapter of my 𝑀𝑜𝑑𝑒𝑙 𝑡𝑜 𝑀𝑒𝑎𝑛𝑖𝑛𝑔 book, or any function in the marginaleffects package for R or Python. (light lift)\nPedro Sant’Anna’s Comprehensive Guide to Multi-Agent Slide Development, Code Review, and Research Automation (heavy lift)\n\n(Thanks for the examples, Robert!)"
+  },
+  {
     "objectID": "index.html#getting-started",
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
