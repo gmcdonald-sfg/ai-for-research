@@ -42,18 +42,18 @@
     "text": "Research process: Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
-    "objectID": "index.html#research-process-data-analysis-with-coding-assistants",
-    "href": "index.html#research-process-data-analysis-with-coding-assistants",
+    "objectID": "index.html#research-process-data-analysis",
+    "href": "index.html#research-process-data-analysis",
     "title": "AI Tools for Research",
-    "section": "Research process: Data analysis with coding Assistants",
-    "text": "Research process: Data analysis with coding Assistants\nGitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan be used in ‘ask’, ‘edit’, or ‘agent’ mode\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development"
+    "section": "Research process: Data analysis",
+    "text": "Research process: Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan be used in ‘ask’, ‘edit’, or ‘agent’ mode\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development"
   },
   {
     "objectID": "index.html#research-process-writing-and-communication",
     "href": "index.html#research-process-writing-and-communication",
     "title": "AI Tools for Research",
     "section": "Research process: Writing and Communication",
-    "text": "Research process: Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+    "text": "Research process: Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation (e.g., schematics)\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
     "objectID": "index.html#getting-started",

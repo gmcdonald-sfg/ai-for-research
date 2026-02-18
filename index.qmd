@@ -60,9 +60,9 @@ format:
 - Gemini Notebook LM
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
-## Research process: Data analysis with coding Assistants
+## Research process: Data analysis
 
-**GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
+**Coding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
 
 - Integrated directly into your IDE
 - Have access to your codebase, file structure
@@ -75,7 +75,7 @@ format:
 ## Research process: Writing and Communication
 
 - Gemini, Claude, GPT
-- Gemini Nano Banana for image generation
+- Gemini Nano Banana for image generation (e.g., schematics)
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
 ## Getting Started
