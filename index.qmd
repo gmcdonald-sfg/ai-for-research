@@ -15,8 +15,10 @@ format:
 
 - AI is transforming the way research is done
 - AI is *rapidly* evolving - tools and capability changing daily
-- Today we'll talk about some promising LLMs and tools, but more importantly some high-level best practices
-- I'll be sharing some of my thoughts today, but I also really want to hear from *you*
+- Today I'll  focus on tools I've personally used, but this is by no means exhaustive!
+- Since tools are changing so rapidly, we'll also talk about best practices
+- I'm no AI expert - but an enthuastic (and optimistically skeptical) user
+- I also really want to hear from *you*
 
 
 
