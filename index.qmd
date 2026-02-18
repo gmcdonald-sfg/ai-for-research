@@ -13,9 +13,11 @@ format:
 
 ## Welcome
 
-- AI tools are transforming academic research
-- Especially relevant for data science, fisheries, remote sensing, and econometrics
-- This presentation covers key tools and applications
+- AI is transforming the way research is done
+- AI is *rapidly* evolving - tools and capability changing daily
+- Today we'll talk about some promising LLMs and tools, but more importantly some high-level best practices
+- I'll be sharing some of my thoughts today, but I also really want to hear from *you*
+
 
 
 ## AI can help with each stage of the research process
@@ -77,6 +79,15 @@ format:
 - Gemini, Claude, GPT
 - Gemini Nano Banana for image generation (e.g., schematics)
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
+
+## Research process: Collaboration and Project Management
+
+- GitHub Copilot for project management and collaboration
+  - Can generate issues, pull requests, documentation, etc
+  - Can be used to review code and suggest improvements
+  - Can help with project organization and workflow
+
+- Various other AI-powered tools in Slack, Asana, Zoom, etc
 
 ## Getting Started
 

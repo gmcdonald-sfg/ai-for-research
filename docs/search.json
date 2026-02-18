@@ -4,7 +4,7 @@
     "href": "index.html#welcome",
     "title": "AI Tools for Research",
     "section": "Welcome",
-    "text": "Welcome\n\nAI tools are transforming academic research\nEspecially relevant for data science, fisheries, remote sensing, and econometrics\nThis presentation covers key tools and applications"
+    "text": "Welcome\n\nAI is transforming the way research is done\nAI is rapidly evolving - tools and capability changing daily\nToday we’ll talk about some promising LLMs and tools, but more importantly some high-level best practices\nI’ll be sharing some of my thoughts today, but I also really want to hear from you"
   },
   {
     "objectID": "index.html#ai-can-help-with-each-stage-of-the-research-process",
@@ -54,6 +54,13 @@
     "title": "AI Tools for Research",
     "section": "Research process: Writing and Communication",
     "text": "Research process: Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation (e.g., schematics)\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+  },
+  {
+    "objectID": "index.html#research-process-collaboration-and-project-management",
+    "href": "index.html#research-process-collaboration-and-project-management",
+    "title": "AI Tools for Research",
+    "section": "Research process: Collaboration and Project Management",
+    "text": "Research process: Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
   },
   {
     "objectID": "index.html#getting-started",
