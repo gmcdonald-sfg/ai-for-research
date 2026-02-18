@@ -76,6 +76,32 @@ format:
 - Great for data science workflows
 - Can even be used for machine learning model development
 
+## Positron Databot
+
+
+- Developed by **Posit** team (formerly R Studio) for **Positron** (modern, polyglot IDE alternative to RStudio based on VS Code)
+- Allows you to interact with your data using natural language
+- Can be used for data exploration, analysis, and visualization
+- Designed with responsible, human-in-the-loop use in mind ([Databot is not a flotation device](https://posit.co/blog/databot-is-not-a-flotation-device/))
+
+
+> "In my 30-year career writing software professionally, Databot is both the most exciting software I've worked on, and also the most dangerous."
+>
+> –Joe Cheng, Posit CTO
+
+> To use Databot effectively and safely, you still need the skills of a data scientist.
+
+> Databot is a set of fins that can make you swim faster and stronger, not a life vest.
+
+## Positron Assistant
+- Developed by **Posit** team for **Positron**
+- A general coding assistant that can help with a wide range of coding tasks
+- Can be used for code generation, debugging, documentation, and more
+- Specifically tailored for data science workflows, with specific R and Python tooling
+- Has access to your codebase and file structure, so it can provide more context-aware assistance
+- Can use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot
+
+
 ## Research process: Writing and Communication
 
 - Gemini, Claude, GPT
@@ -97,7 +123,7 @@ format:
 
 1. Try Gemini for literature summaries
 2. Become familiar with GitHub Copilot
-3. Try a Claude or GitHub Copilot coding assistent in your IDE
+3. Try a Positron coding assistent for your next data science task
 
 ## Resources
 

@@ -49,6 +49,20 @@
     "text": "Research process: Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan be used in ‘ask’, ‘edit’, or ‘agent’ mode\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development"
   },
   {
+    "objectID": "index.html#positron-databot",
+    "href": "index.html#positron-databot",
+    "title": "AI Tools for Research",
+    "section": "Positron Databot",
+    "text": "Positron Databot\n\nDeveloped by Posit team (formerly R Studio) for Positron (modern, polyglot IDE alternative to RStudio based on VS Code)\nAllows you to interact with your data using natural language\nCan be used for data exploration, analysis, and visualization\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.”\n–Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist.\n\n\nDatabot is a set of fins that can make you swim faster and stronger, not a life vest."
+  },
+  {
+    "objectID": "index.html#positron-assistant",
+    "href": "index.html#positron-assistant",
+    "title": "AI Tools for Research",
+    "section": "Positron Assistant",
+    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nCan use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot"
+  },
+  {
     "objectID": "index.html#research-process-writing-and-communication",
     "href": "index.html#research-process-writing-and-communication",
     "title": "AI Tools for Research",
@@ -67,7 +81,7 @@
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
     "section": "Getting Started",
-    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a Claude or GitHub Copilot coding assistent in your IDE"
+    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a Positron coding assistent for your next data science task"
   },
   {
     "objectID": "index.html#resources",
