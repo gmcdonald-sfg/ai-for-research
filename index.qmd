@@ -71,10 +71,11 @@ format:
 - Integrated directly into your IDE
 - Have access to your codebase, file structure
 - Code generation (great for R, Python, etc)
-- Can be used in 'ask', 'edit', or 'agent' mode
+- Can operate in different modes: **ask**, **edit**, or **agent**, depending on your needs and comfort level
 - Can run commands (if you let it)
 - Great for data science workflows
 - Can even be used for machine learning model development
+- Usually **“BYO-key”**  (can use any LLM backend)
 
 ## Positron Databot
 
@@ -98,7 +99,7 @@ format:
 - Specifically tailored for data science workflows, with specific R and Python tooling
 - Has access to your codebase and file structure, so it can provide more context-aware assistance
 - Can use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot
-- Can be used in 'ask', 'edit', or 'agent' mode, depending on your needs and comfort level
+- Can be used in  **ask**, **edit**, or **agent**
 
 
 ## Research process: Writing and Communication
