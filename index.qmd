@@ -59,10 +59,12 @@ format:
 
 ## Research process: Literature Review
 
-- Google Scholar Labs
 - Gemini Deep Research
 - Gemini Notebook LM
+- Google Scholar Labs
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
+
+**Demo: Gemini vs Gemini Deep Research vs Google Scholar Labs**
 
 ## Research process: Data analysis
 
