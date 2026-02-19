@@ -59,12 +59,10 @@ format:
 
 ## Research process: Literature Review
 
+- Google Scholar Labs
 - Gemini Deep Research
 - Gemini Notebook LM
-- Google Scholar Labs
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
-
-**Demo: Gemini vs Gemini Deep Research vs Google Scholar Labs**
 
 ## Research process: Data analysis
 
@@ -124,7 +122,7 @@ format:
 - Vincent Arel-Bundock's [Use LLMs to learn about any chapter of my 𝑀𝑜𝑑𝑒𝑙 𝑡𝑜 𝑀𝑒𝑎𝑛𝑖𝑛𝑔 book, or any function in the `marginaleffects` package for R or Python.](https://bsky.app/profile/vincentab.bsky.social/post/3mequg4gzts27) **(light lift)**
 - Pedro Sant'Anna's [Comprehensive Guide to Multi-Agent Slide Development, Code Review, and Research Automation](https://psantanna.com/claude-code-my-workflow/workflow-guide.html) **(heavy lift)**
 
-*(Thanks for the examples, Robert!)*
+*(Thanks, Robert!)*
 
 
 ## Getting Started
