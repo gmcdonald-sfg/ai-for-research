@@ -53,14 +53,14 @@
     "href": "index.html#positron-databot",
     "title": "AI Tools for Research",
     "section": "Positron Databot",
-    "text": "Positron Databot\n\nDeveloped by Posit team (formerly R Studio) for Positron (modern, polyglot IDE alternative to RStudio based on VS Code)\nAllows you to interact with your data using natural language\nCan be used for data exploration, analysis, and visualization\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.”\n–Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist.\n\n\nDatabot is a set of fins that can make you swim faster and stronger, not a life vest."
+    "text": "Positron Databot\n\nDeveloped by Posit team (formerly RStudio) for Positron (modern, polyglot IDE alternative to RStudio based on VS Code)\nAllows you to interact with your data using natural language\nDesigned for exploratory data analysis (can do ML too)\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\nUses a WEAR loop: Write code, Execute, Analyze, Regroup\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.”\n–Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist. Databot is a set of fins that can make you swim faster and stronger, not a life vest."
   },
   {
     "objectID": "index.html#positron-assistant",
     "href": "index.html#positron-assistant",
     "title": "AI Tools for Research",
     "section": "Positron Assistant",
-    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nCan use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot"
+    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nCan use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot\nCan be used in ‘ask’, ‘edit’, or ‘agent’ mode, depending on your needs and comfort level"
   },
   {
     "objectID": "index.html#research-process-writing-and-communication",
@@ -81,7 +81,7 @@
     "href": "index.html#examples",
     "title": "AI Tools for Research",
     "section": "Examples",
-    "text": "Examples\n\nVincent Arel-Bundock’s Use LLMs to learn about any chapter of my 𝑀𝑜𝑑𝑒𝑙 𝑡𝑜 𝑀𝑒𝑎𝑛𝑖𝑛𝑔 book, or any function in the marginaleffects package for R or Python. (light lift)\nPedro Sant’Anna’s Comprehensive Guide to Multi-Agent Slide Development, Code Review, and Research Automation (heavy lift)\n\n(Thanks for the examples, Robert!)"
+    "text": "Examples\n\nVincent Arel-Bundock’s Use LLMs to learn about any chapter of my 𝑀𝑜𝑑𝑒𝑙 𝑡𝑜 𝑀𝑒𝑎𝑛𝑖𝑛𝑔 book, or any function in the marginaleffects package for R or Python. (light lift)\nPedro Sant’Anna’s Comprehensive Guide to Multi-Agent Slide Development, Code Review, and Research Automation (heavy lift)\n\n(Thanks, Robert!)"
   },
   {
     "objectID": "index.html#getting-started",
