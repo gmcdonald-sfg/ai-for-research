@@ -75,10 +75,11 @@ format:
 - Can run commands (if you let it)
 - Great for data science workflows
 - Can even be used for machine learning model development
-- Usually **“BYO-key”**  (can use any LLM backend)
+- Usually **“BYO-key”**
+  - Can use any LLM backend - Claude, Gemini, etc.
+  - You're also subject to that backend's data privacy policies
 
 ## Positron Databot
-
 
 - Developed by **Posit** team (formerly RStudio) for **Positron** (modern, polyglot IDE alternative to RStudio based on VS Code)
 - Allows you to interact with your data using natural language
@@ -98,9 +99,16 @@ format:
 - Can be used for code generation, debugging, documentation, and more
 - Specifically tailored for data science workflows, with specific R and Python tooling
 - Has access to your codebase and file structure, so it can provide more context-aware assistance
-- Can use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot
-- Can be used in  **ask**, **edit**, or **agent**
+- **BYOK**: Can use various LLM backends (Gemini, Claude, etc.)
+- Can be used in  **ask**, **edit**, or **agent** mode
 
+## Using Claude directly vs GitHub Copilot with Claude?
+
+- Claude is requires a paid account
+- GitHub Copilot is free if you have an education account, but is otherwise paid as well
+- Using Claude directly gives you access to full context window - it is capped when going through Copilot
+- Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface
+- GitHub Copilot adds in-line code completion
 
 ## Research process: Writing and Communication
 

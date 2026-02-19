@@ -46,7 +46,7 @@
     "href": "index.html#research-process-data-analysis",
     "title": "AI Tools for Research",
     "section": "Research process: Data analysis",
-    "text": "Research process: Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development\nUsually “BYO-key” (can use any LLM backend)"
+    "text": "Research process: Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development\nUsually “BYO-key”\n\nCan use any LLM backend - Claude, Gemini, etc.\nYou’re also subject to that backend’s data privacy policies"
   },
   {
     "objectID": "index.html#positron-databot",
@@ -60,7 +60,14 @@
     "href": "index.html#positron-assistant",
     "title": "AI Tools for Research",
     "section": "Positron Assistant",
-    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nCan use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot\nCan be used in ask, edit, or agent"
+    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Gemini, Claude, etc.)\nCan be used in ask, edit, or agent mode"
+  },
+  {
+    "objectID": "index.html#using-claude-directly-vs-github-copilot-with-claude",
+    "href": "index.html#using-claude-directly-vs-github-copilot-with-claude",
+    "title": "AI Tools for Research",
+    "section": "Using Claude directly vs GitHub Copilot with Claude?",
+    "text": "Using Claude directly vs GitHub Copilot with Claude?\n\nClaude is requires a paid account\nGitHub Copilot is free if you have an education account, but is otherwise paid as well\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nGitHub Copilot adds in-line code completion"
   },
   {
     "objectID": "index.html#research-process-writing-and-communication",

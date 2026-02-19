@@ -220,7 +220,11 @@ Gavin McDonald
 <li>Can run commands (if you let it)</li>
 <li>Great for data science workflows</li>
 <li>Can even be used for machine learning model development</li>
-<li>Usually <strong>“BYO-key”</strong> (can use any LLM backend)</li>
+<li>Usually <strong>“BYO-key”</strong>
+<ul>
+<li>Can use any LLM backend - Claude, Gemini, etc.</li>
+<li>You’re also subject to that backend’s data privacy policies</li>
+</ul></li>
 </ul>
 </section>
 <section id="positron-databot" class="slide level2">
@@ -248,8 +252,18 @@ Gavin McDonald
 <li>Can be used for code generation, debugging, documentation, and more</li>
 <li>Specifically tailored for data science workflows, with specific R and Python tooling</li>
 <li>Has access to your codebase and file structure, so it can provide more context-aware assistance</li>
-<li>Can use various LLM backends (Gemini, Claude, GPT, etc.) and/or GitHub Copilot</li>
-<li>Can be used in <strong>ask</strong>, <strong>edit</strong>, or <strong>agent</strong></li>
+<li><strong>BYOK</strong>: Can use various LLM backends (Gemini, Claude, etc.)</li>
+<li>Can be used in <strong>ask</strong>, <strong>edit</strong>, or <strong>agent</strong> mode</li>
+</ul>
+</section>
+<section id="using-claude-directly-vs-github-copilot-with-claude" class="slide level2">
+<h2>Using Claude directly vs GitHub Copilot with Claude?</h2>
+<ul>
+<li>Claude is requires a paid account</li>
+<li>GitHub Copilot is free if you have an education account, but is otherwise paid as well</li>
+<li>Using Claude directly gives you access to full context window - it is capped when going through Copilot</li>
+<li>Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface</li>
+<li>GitHub Copilot adds in-line code completion</li>
 </ul>
 </section>
 <section id="research-process-writing-and-communication" class="slide level2">
