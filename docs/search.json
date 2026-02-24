@@ -53,14 +53,21 @@
     "href": "index.html#positron-databot",
     "title": "AI Tools for Research",
     "section": "Positron Databot",
-    "text": "Positron Databot\n\nDeveloped by Posit team (formerly RStudio) for Positron (modern polygot successor to RStudio IDE; VS Code fork)\nAllows you to interact with your data using natural language\nDesigned for exploratory data analysis (can do ML too)\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\nUses a WEAR loop: Write code, Execute, Analyze, Regroup\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.” –Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist. Databot is a set of fins that can make you swim faster and stronger, not a life vest."
+    "text": "Positron Databot\n\nDeveloped by Posit team (formerly RStudio) for Positron (modern polygot successor to RStudio IDE; VS Code fork)\nAllows you to interact with your data using natural language\nDesigned for exploratory data analysis (can do ML too)\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\nUses a WEAR loop: Write code, Execute, Analyze, Regroup\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.” –Joe Cheng, Posit CTO"
   },
   {
     "objectID": "index.html#positron-assistant",
     "href": "index.html#positron-assistant",
     "title": "AI Tools for Research",
     "section": "Positron Assistant",
-    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nGeneral coding assistant for wide range of tasks\nSpecifically tailored for data science workflows, with specific R and Python tooling\nCan be used for code generation, debugging, documentation, and more\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Claude, GPT, etc.)\nCan be used in ask, edit, or agent mode"
+    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nGeneral coding assistant for wide range of tasks\nSimilar to Claude Caude, but specifically tailored for data science workflows, with specific R and Python tooling\nCan be used for code generation, debugging, documentation, and more\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Claude, GPT, etc.)\nCan be used in ask, edit, or agent mode"
+  },
+  {
+    "objectID": "index.html#what-llm-is-best-for-coding",
+    "href": "index.html#what-llm-is-best-for-coding",
+    "title": "AI Tools for Research",
+    "section": "What LLM is best for coding?",
+    "text": "What LLM is best for coding?\nShort answer: Claude (for R, at least for now)\n\nCheck out Claude’s Constitution\nKeep an eye on Posit’s AI Newsletter and R Benchmark tests"
   },
   {
     "objectID": "index.html#using-claude-directly-vs-github-copilot-with-claude",
@@ -74,7 +81,7 @@
     "href": "index.html#research-process-45-writing-and-communication",
     "title": "AI Tools for Research",
     "section": "Research process (4/5): Writing and Communication",
-    "text": "Research process (4/5): Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation (e.g., schematics)\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+    "text": "Research process (4/5): Writing and Communication\n\nGemini, Claude, GPT\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus\nGemini Nano Banana for image generation (e.g., flowcharts, technical diagrams, etc)"
   },
   {
     "objectID": "index.html#research-process-55-collaboration-and-project-management",
@@ -102,7 +109,7 @@
     "href": "index.html#resources",
     "title": "AI Tools for Research",
     "section": "Resources",
-    "text": "Resources\n\nFree Copilot course from GitHub\nGetting started with Positron Assistant"
+    "text": "Resources\n\nGenAI Tools at UCSB\nFree Copilot course from GitHub\nGetting started with Positron Assistant\nIntroducing Databot: An AI assistant for exploratory data analysis"
   },
   {
     "objectID": "index.html#best-practices",

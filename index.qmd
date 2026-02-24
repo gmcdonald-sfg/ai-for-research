@@ -85,18 +85,28 @@ format:
 - Designed with responsible, **human-in-the-loop** use in mind ([Databot is not a flotation device](https://posit.co/blog/databot-is-not-a-flotation-device/))
 - Uses a **WEAR** loop: **W**rite code, **E**xecute, **A**nalyze, **R**egroup
 
-> "In my 30-year career writing software professionally, Databot is both the most exciting software I've worked on, and also the most dangerous." –Joe Cheng, Posit CTO
-
-> To use Databot effectively and safely, you still need the skills of a data scientist.  Databot is a set of fins that can make you swim faster and stronger, not a life vest.
+*"In my 30-year career writing software professionally, Databot is both the most exciting software I've worked on, and also the most dangerous." –Joe Cheng, Posit CTO*
 
 ## Positron Assistant
 - Developed by **Posit** team for **Positron**
 - General coding assistant for wide range of tasks
-- Specifically tailored for data science workflows, with specific R and Python tooling
+- Similar to Claude Caude, but specifically tailored for data science workflows, with specific R and Python tooling
 - Can be used for code generation, debugging, documentation, and more
 - Has access to your codebase and file structure, so it can provide more context-aware assistance
 - **BYOK**: Can use various LLM backends (Claude, GPT, etc.)
 - Can be used in  **ask**, **edit**, or **agent** mode
+
+## What LLM is best for coding?
+
+Short answer: **Claude** (*for R, at least for now*)
+
+![](images/llm_r_comparison.png)
+
+Check out [Claude's Constitution](https://www.anthropic.com/constitution)
+
+Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsletter/) and [R Benchmark tests](https://skaltman-model-eval-app.share.connect.posit.cloud)
+
+
 
 ## Using Claude directly vs GitHub Copilot with Claude?
 
@@ -109,8 +119,9 @@ format:
 ## Research process (4/5): Writing and Communication
 
 - Gemini, Claude, GPT
-- Gemini Nano Banana for image generation (e.g., schematics)
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
+- Gemini Nano Banana for image generation (e.g., flowcharts, technical diagrams, etc)
+
 
 ## Research process (5/5): Collaboration and Project Management
 
@@ -139,8 +150,10 @@ format:
 
 ## Resources
 
+- [GenAI Tools at UCSB](https://cio.ucsb.edu/artificial-intelligence/genai-tools-ucsb)
 - [Free Copilot course from GitHub](https://github.com/orgs/community/discussions/184217)
 - [Getting started with Positron Assistant](https://positron.posit.co/assistant-getting-started.html)
+- [Introducing Databot: An AI assistant for exploratory data analysis](https://posit.co/blog/introducing-databot/)
 
 ## Best Practices
 
