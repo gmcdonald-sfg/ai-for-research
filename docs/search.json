@@ -4,7 +4,7 @@
     "href": "index.html#welcome",
     "title": "AI Tools for Research",
     "section": "Welcome",
-    "text": "Welcome\n\nAI is transforming the way research is done\nAI is rapidly evolving - tools and capability changing daily\nToday I’ll focus on tools I’ve personally used, but this is by no means exhaustive!\nSince tools are changing so rapidly, we’ll also talk about best practices\nI’m no AI expert - but an enthuastic (and optimistically skeptical) user\nI also really want to hear from you"
+    "text": "Welcome\n\nAI is transforming the way research is done\nAI is rapidly evolving - tools and capability changing daily (this will probably all be out of date next week!)\nToday I’ll focus on tools I’ve personally used, but this is by no means exhaustive\nSince tools are changing so rapidly, we’ll also talk about best practices\nI’m no AI expert - but rather just an enthuastic (and optimistically skeptical) user\nI also really want to hear from you"
   },
   {
     "objectID": "index.html#ai-can-help-with-each-stage-of-the-research-process",
@@ -28,60 +28,60 @@
     "text": "Data privacy\n\nAlways check the data privacy policies of any AI tool you use\nUCSB’s Gemini license has excellent protections\n\nApproved for P1/P2/P3/P4 sensitive data\nYour data is not used to train models\nAvailable for faculty and staff\n\nClaude Code has settings for data retention, whether your code is used to train models, etc"
   },
   {
-    "objectID": "index.html#research-process-idea-generation",
-    "href": "index.html#research-process-idea-generation",
+    "objectID": "index.html#research-process-15-idea-generation",
+    "href": "index.html#research-process-15-idea-generation",
     "title": "AI Tools for Research",
-    "section": "Research process: Idea Generation",
-    "text": "Research process: Idea Generation\n\nGemini, Claude, GPT\nGemini Deep Research"
+    "section": "Research process (1/5): Idea Generation",
+    "text": "Research process (1/5): Idea Generation\n\nGemini, Claude, GPT\nGemini Deep Research"
   },
   {
-    "objectID": "index.html#research-process-literature-review",
-    "href": "index.html#research-process-literature-review",
+    "objectID": "index.html#research-process-25-literature-review",
+    "href": "index.html#research-process-25-literature-review",
     "title": "AI Tools for Research",
-    "section": "Research process: Literature Review",
-    "text": "Research process: Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+    "section": "Research process (2/5): Literature Review",
+    "text": "Research process (2/5): Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
-    "objectID": "index.html#research-process-data-analysis",
-    "href": "index.html#research-process-data-analysis",
+    "objectID": "index.html#research-process-35-data-analysis",
+    "href": "index.html#research-process-35-data-analysis",
     "title": "AI Tools for Research",
-    "section": "Research process: Data analysis",
-    "text": "Research process: Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCode generation (great for R, Python, etc)\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nCan run commands (if you let it)\nGreat for data science workflows\nCan even be used for machine learning model development\nUsually “BYO-key”\n\nCan use any LLM backend - Claude, Gemini, etc.\nYou’re also subject to that backend’s data privacy policies"
+    "section": "Research process (3/5): Data analysis",
+    "text": "Research process (3/5): Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nGreat for data science workflows (but anything really)\nUsually “BYO-key”\n\nCan use any LLM backend - Claude, Gemini, etc.\nYou’re also subject to that backend’s data privacy policies"
   },
   {
     "objectID": "index.html#positron-databot",
     "href": "index.html#positron-databot",
     "title": "AI Tools for Research",
     "section": "Positron Databot",
-    "text": "Positron Databot\n\nDeveloped by Posit team (formerly RStudio) for Positron (modern, polyglot IDE alternative to RStudio based on VS Code)\nAllows you to interact with your data using natural language\nDesigned for exploratory data analysis (can do ML too)\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\nUses a WEAR loop: Write code, Execute, Analyze, Regroup\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.”\n–Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist. Databot is a set of fins that can make you swim faster and stronger, not a life vest."
+    "text": "Positron Databot\n\nDeveloped by Posit team (formerly RStudio) for Positron (modern polygot successor to RStudio IDE; VS Code fork)\nAllows you to interact with your data using natural language\nDesigned for exploratory data analysis (can do ML too)\nDesigned with responsible, human-in-the-loop use in mind (Databot is not a flotation device)\nUses a WEAR loop: Write code, Execute, Analyze, Regroup\n\n\n“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.” –Joe Cheng, Posit CTO\n\n\nTo use Databot effectively and safely, you still need the skills of a data scientist. Databot is a set of fins that can make you swim faster and stronger, not a life vest."
   },
   {
     "objectID": "index.html#positron-assistant",
     "href": "index.html#positron-assistant",
     "title": "AI Tools for Research",
     "section": "Positron Assistant",
-    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nA general coding assistant that can help with a wide range of coding tasks\nCan be used for code generation, debugging, documentation, and more\nSpecifically tailored for data science workflows, with specific R and Python tooling\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Gemini, Claude, etc.)\nCan be used in ask, edit, or agent mode"
+    "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nGeneral coding assistant for wide range of tasks\nSpecifically tailored for data science workflows, with specific R and Python tooling\nCan be used for code generation, debugging, documentation, and more\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Claude, GPT, etc.)\nCan be used in ask, edit, or agent mode"
   },
   {
     "objectID": "index.html#using-claude-directly-vs-github-copilot-with-claude",
     "href": "index.html#using-claude-directly-vs-github-copilot-with-claude",
     "title": "AI Tools for Research",
     "section": "Using Claude directly vs GitHub Copilot with Claude?",
-    "text": "Using Claude directly vs GitHub Copilot with Claude?\n\nClaude is requires a paid account\nGitHub Copilot is free if you have an education account, but is otherwise paid as well\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nGitHub Copilot adds in-line code completion"
+    "text": "Using Claude directly vs GitHub Copilot with Claude?\n\nClaude requires a paid account\nGitHub Copilot is free if you have an education account, but is otherwise paid as well\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nGitHub Copilot adds in-line code completion"
   },
   {
-    "objectID": "index.html#research-process-writing-and-communication",
-    "href": "index.html#research-process-writing-and-communication",
+    "objectID": "index.html#research-process-45-writing-and-communication",
+    "href": "index.html#research-process-45-writing-and-communication",
     "title": "AI Tools for Research",
-    "section": "Research process: Writing and Communication",
-    "text": "Research process: Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation (e.g., schematics)\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+    "section": "Research process (4/5): Writing and Communication",
+    "text": "Research process (4/5): Writing and Communication\n\nGemini, Claude, GPT\nGemini Nano Banana for image generation (e.g., schematics)\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
-    "objectID": "index.html#research-process-collaboration-and-project-management",
-    "href": "index.html#research-process-collaboration-and-project-management",
+    "objectID": "index.html#research-process-55-collaboration-and-project-management",
+    "href": "index.html#research-process-55-collaboration-and-project-management",
     "title": "AI Tools for Research",
-    "section": "Research process: Collaboration and Project Management",
-    "text": "Research process: Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
+    "section": "Research process (5/5): Collaboration and Project Management",
+    "text": "Research process (5/5): Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
   },
   {
     "objectID": "index.html#examples",

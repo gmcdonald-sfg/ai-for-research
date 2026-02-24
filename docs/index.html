@@ -10,6 +10,7 @@
   <meta name="generator" content="quarto-1.8.27">
 
   <meta name="author" content="Gavin McDonald">
+  <meta name="dcterms.date" content="2026-02-26">
   <title>AI Tools for Academic Research – AI Tools for Research</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -138,15 +139,16 @@ Gavin McDonald
 </div>
 </div>
 
+  <p class="date">2026-02-26</p>
 </section>
 <section id="welcome" class="slide level2">
 <h2>Welcome</h2>
 <ul>
 <li>AI is transforming the way research is done</li>
-<li>AI is <em>rapidly</em> evolving - tools and capability changing daily</li>
-<li>Today I’ll focus on tools I’ve personally used, but this is by no means exhaustive!</li>
+<li>AI is <em>rapidly</em> evolving - tools and capability changing daily (<strong>this will probably all be out of date next week!</strong>)</li>
+<li>Today I’ll focus on tools I’ve personally used, but this is by no means exhaustive</li>
 <li>Since tools are changing so rapidly, we’ll also talk about best practices</li>
-<li>I’m no AI expert - but an enthuastic (and optimistically skeptical) user</li>
+<li>I’m no AI expert - but rather just an enthuastic (and optimistically skeptical) user</li>
 <li>I also really want to hear from <em>you</em></li>
 </ul>
 </section>
@@ -193,15 +195,15 @@ Gavin McDonald
 <li>Claude Code has <a href="https://privacy.claude.com/en/collections/10672565-data-handling-retention">settings</a> for data retention, whether your code is used to train models, etc</li>
 </ul>
 </section>
-<section id="research-process-idea-generation" class="slide level2">
-<h2>Research process: Idea Generation</h2>
+<section id="research-process-15-idea-generation" class="slide level2">
+<h2>Research process (1/5): Idea Generation</h2>
 <ul>
 <li>Gemini, Claude, GPT</li>
 <li>Gemini Deep Research</li>
 </ul>
 </section>
-<section id="research-process-literature-review" class="slide level2">
-<h2>Research process: Literature Review</h2>
+<section id="research-process-25-literature-review" class="slide level2">
+<h2>Research process (2/5): Literature Review</h2>
 <ul>
 <li>Google Scholar Labs</li>
 <li>Gemini Deep Research</li>
@@ -209,17 +211,14 @@ Gavin McDonald
 <li>Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus</li>
 </ul>
 </section>
-<section id="research-process-data-analysis" class="slide level2">
-<h2>Research process: Data analysis</h2>
+<section id="research-process-35-data-analysis" class="slide level2">
+<h2>Research process (3/5): Data analysis</h2>
 <p><strong>Coding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot</strong></p>
 <ul>
 <li>Integrated directly into your IDE</li>
 <li>Have access to your codebase, file structure</li>
-<li>Code generation (great for R, Python, etc)</li>
 <li>Can operate in different modes: <strong>ask</strong>, <strong>edit</strong>, or <strong>agent</strong>, depending on your needs and comfort level</li>
-<li>Can run commands (if you let it)</li>
-<li>Great for data science workflows</li>
-<li>Can even be used for machine learning model development</li>
+<li>Great for data science workflows (but anything really)</li>
 <li>Usually <strong>“BYO-key”</strong>
 <ul>
 <li>Can use any LLM backend - Claude, Gemini, etc.</li>
@@ -230,15 +229,14 @@ Gavin McDonald
 <section id="positron-databot" class="slide level2">
 <h2>Positron Databot</h2>
 <ul>
-<li>Developed by <strong>Posit</strong> team (formerly RStudio) for <strong>Positron</strong> (modern, polyglot IDE alternative to RStudio based on VS Code)</li>
+<li>Developed by <strong>Posit</strong> team (formerly RStudio) for <strong>Positron</strong> (modern polygot successor to RStudio IDE; VS Code fork)</li>
 <li>Allows you to interact with your data using natural language</li>
 <li>Designed for exploratory data analysis (can do ML too)</li>
 <li>Designed with responsible, <strong>human-in-the-loop</strong> use in mind (<a href="https://posit.co/blog/databot-is-not-a-flotation-device/">Databot is not a flotation device</a>)</li>
 <li>Uses a <strong>WEAR</strong> loop: <strong>W</strong>rite code, <strong>E</strong>xecute, <strong>A</strong>nalyze, <strong>R</strong>egroup</li>
 </ul>
 <blockquote>
-<p>“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.”</p>
-<p>–Joe Cheng, Posit CTO</p>
+<p>“In my 30-year career writing software professionally, Databot is both the most exciting software I’ve worked on, and also the most dangerous.” –Joe Cheng, Posit CTO</p>
 </blockquote>
 <blockquote>
 <p>To use Databot effectively and safely, you still need the skills of a data scientist. Databot is a set of fins that can make you swim faster and stronger, not a life vest.</p>
@@ -248,34 +246,34 @@ Gavin McDonald
 <h2>Positron Assistant</h2>
 <ul>
 <li>Developed by <strong>Posit</strong> team for <strong>Positron</strong></li>
-<li>A general coding assistant that can help with a wide range of coding tasks</li>
-<li>Can be used for code generation, debugging, documentation, and more</li>
+<li>General coding assistant for wide range of tasks</li>
 <li>Specifically tailored for data science workflows, with specific R and Python tooling</li>
+<li>Can be used for code generation, debugging, documentation, and more</li>
 <li>Has access to your codebase and file structure, so it can provide more context-aware assistance</li>
-<li><strong>BYOK</strong>: Can use various LLM backends (Gemini, Claude, etc.)</li>
+<li><strong>BYOK</strong>: Can use various LLM backends (Claude, GPT, etc.)</li>
 <li>Can be used in <strong>ask</strong>, <strong>edit</strong>, or <strong>agent</strong> mode</li>
 </ul>
 </section>
 <section id="using-claude-directly-vs-github-copilot-with-claude" class="slide level2">
 <h2>Using Claude directly vs GitHub Copilot with Claude?</h2>
 <ul>
-<li>Claude is requires a paid account</li>
+<li>Claude requires a paid account</li>
 <li>GitHub Copilot is free if you have an education account, but is otherwise paid as well</li>
 <li>Using Claude directly gives you access to full context window - it is capped when going through Copilot</li>
 <li>Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface</li>
 <li>GitHub Copilot adds in-line code completion</li>
 </ul>
 </section>
-<section id="research-process-writing-and-communication" class="slide level2">
-<h2>Research process: Writing and Communication</h2>
+<section id="research-process-45-writing-and-communication" class="slide level2">
+<h2>Research process (4/5): Writing and Communication</h2>
 <ul>
 <li>Gemini, Claude, GPT</li>
 <li>Gemini Nano Banana for image generation (e.g., schematics)</li>
 <li>Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus</li>
 </ul>
 </section>
-<section id="research-process-collaboration-and-project-management" class="slide level2">
-<h2>Research process: Collaboration and Project Management</h2>
+<section id="research-process-55-collaboration-and-project-management" class="slide level2">
+<h2>Research process (5/5): Collaboration and Project Management</h2>
 <ul>
 <li>GitHub Copilot for project management and collaboration
 <ul>

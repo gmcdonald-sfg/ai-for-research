@@ -2,6 +2,7 @@
 title: "AI Tools for Research"
 subtitle: "emLab Land and People lab meeting"
 author: "Gavin McDonald"
+date: "Febraury 26, 2026"
 format:
   revealjs:
     theme: dracula.scss
@@ -14,10 +15,10 @@ format:
 ## Welcome
 
 - AI is transforming the way research is done
-- AI is *rapidly* evolving - tools and capability changing daily
-- Today I'll  focus on tools I've personally used, but this is by no means exhaustive!
+- AI is *rapidly* evolving - tools and capability changing daily (**this will probably all be out of date next week!**)
+- Today I'll  focus on tools I've personally used, but this is by no means exhaustive
 - Since tools are changing so rapidly, we'll also talk about best practices
-- I'm no AI expert - but an enthuastic (and optimistically skeptical) user
+- I'm no AI expert - but rather just an enthuastic (and optimistically skeptical) user
 - I also really want to hear from *you*
 
 
@@ -52,71 +53,66 @@ format:
     - Available for faculty and staff
 - Claude Code has [settings](https://privacy.claude.com/en/collections/10672565-data-handling-retention) for data retention, whether your code is used to train models, etc
 
-## Research process: Idea Generation
+## Research process (1/5): Idea Generation
 
 - Gemini, Claude, GPT
 - Gemini Deep Research
 
-## Research process: Literature Review
+## Research process (2/5): Literature Review
 
 - Google Scholar Labs
 - Gemini Deep Research
 - Gemini Notebook LM
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
-## Research process: Data analysis
+## Research process (3/5): Data analysis
 
 **Coding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
 
 - Integrated directly into your IDE
 - Have access to your codebase, file structure
-- Code generation (great for R, Python, etc)
 - Can operate in different modes: **ask**, **edit**, or **agent**, depending on your needs and comfort level
-- Can run commands (if you let it)
-- Great for data science workflows
-- Can even be used for machine learning model development
+- Great for data science workflows (but anything really)
 - Usually **“BYO-key”**
   - Can use any LLM backend - Claude, Gemini, etc.
   - You're also subject to that backend's data privacy policies
 
 ## Positron Databot
 
-- Developed by **Posit** team (formerly RStudio) for **Positron** (modern, polyglot IDE alternative to RStudio based on VS Code)
+- Developed by **Posit** team (formerly RStudio) for **Positron** (modern polygot successor to RStudio IDE; VS Code fork)
 - Allows you to interact with your data using natural language
 - Designed for exploratory data analysis (can do ML too)
 - Designed with responsible, **human-in-the-loop** use in mind ([Databot is not a flotation device](https://posit.co/blog/databot-is-not-a-flotation-device/))
 - Uses a **WEAR** loop: **W**rite code, **E**xecute, **A**nalyze, **R**egroup
 
-> "In my 30-year career writing software professionally, Databot is both the most exciting software I've worked on, and also the most dangerous."
->
-> –Joe Cheng, Posit CTO
+> "In my 30-year career writing software professionally, Databot is both the most exciting software I've worked on, and also the most dangerous." –Joe Cheng, Posit CTO
 
 > To use Databot effectively and safely, you still need the skills of a data scientist.  Databot is a set of fins that can make you swim faster and stronger, not a life vest.
 
 ## Positron Assistant
 - Developed by **Posit** team for **Positron**
-- A general coding assistant that can help with a wide range of coding tasks
-- Can be used for code generation, debugging, documentation, and more
+- General coding assistant for wide range of tasks
 - Specifically tailored for data science workflows, with specific R and Python tooling
+- Can be used for code generation, debugging, documentation, and more
 - Has access to your codebase and file structure, so it can provide more context-aware assistance
-- **BYOK**: Can use various LLM backends (Gemini, Claude, etc.)
+- **BYOK**: Can use various LLM backends (Claude, GPT, etc.)
 - Can be used in  **ask**, **edit**, or **agent** mode
 
 ## Using Claude directly vs GitHub Copilot with Claude?
 
-- Claude is requires a paid account
+- Claude requires a paid account
 - GitHub Copilot is free if you have an education account, but is otherwise paid as well
 - Using Claude directly gives you access to full context window - it is capped when going through Copilot
 - Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface
 - GitHub Copilot adds in-line code completion
 
-## Research process: Writing and Communication
+## Research process (4/5): Writing and Communication
 
 - Gemini, Claude, GPT
 - Gemini Nano Banana for image generation (e.g., schematics)
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
-## Research process: Collaboration and Project Management
+## Research process (5/5): Collaboration and Project Management
 
 - GitHub Copilot for project management and collaboration
   - Can generate issues, pull requests, documentation, etc
