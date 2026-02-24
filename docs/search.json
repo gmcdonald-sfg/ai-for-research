@@ -70,11 +70,11 @@
     "text": "What LLM is best for coding?\nShort answer: Claude (for R, at least for now)\n\nCheck out Claude’s Constitution\nKeep an eye on Posit’s AI Newsletter and R Benchmark tests"
   },
   {
-    "objectID": "index.html#using-claude-directly-vs-github-copilot-with-claude",
-    "href": "index.html#using-claude-directly-vs-github-copilot-with-claude",
+    "objectID": "index.html#which-llm-backend-for-positron-assistant-and-databot-claude-or-github-copilot-with-claude",
+    "href": "index.html#which-llm-backend-for-positron-assistant-and-databot-claude-or-github-copilot-with-claude",
     "title": "AI Tools for Research",
-    "section": "Using Claude directly vs GitHub Copilot with Claude?",
-    "text": "Using Claude directly vs GitHub Copilot with Claude?\n\nClaude requires a paid account\nGitHub Copilot is free if you have an education account, but is otherwise paid as well\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nGitHub Copilot adds in-line code completion"
+    "section": "Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?",
+    "text": "Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?\n\nClaude requires a paid account\nGitHub Copilot has a free education account option; but is otherwise paid as well\nGitHub Copilot gives access to Claude models (and others)\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nGitHub Copilot adds in-line code completion\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but not Claude Pro monthly subscription\nClaude Pro can be used with Claude Code VS Code extenion, which is similar to Positron Assistant but less tailored to R and data science. Both can be used in Positron"
   },
   {
     "objectID": "index.html#research-process-45-writing-and-communication",
