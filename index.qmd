@@ -115,9 +115,18 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 - GitHub Copilot gives access to Claude models (and others)
 - Using Claude directly gives you access to full context window - it is capped when going through Copilot
 - Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface
-- GitHub Copilot adds in-line code completion
-- **Important**: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but *not* Claude Pro monthly subscription
-- Claude Pro can be used with Claude Code VS Code extenion, which is similar to Positron Assistant but less tailored to R and data science. Both can be used in Positron
+- Using Claude through Copilot can quickly exhaust your Copliot credits (at least ith the education account)
+
+
+## Now what about Claude Code?
+
+- Claude Code has a VS Code extenion, which is similar to Positron Assistant: Both provide chat pane with agentic capabilities
+- Assistant is tailored for data science with R and Python; Claude Code more towards general software engineering
+- Claude Code can be used in VS Code or Positron; Assistant can only be used in Positron
+- Assistant is tightly integrated into Positron IDE (e.g., allows in-line assistance)
+- Assistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models
+
+- **Important**: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently *not* with Claude Pro monthly subscription (that might change though)
 
 ## Research process (4/5): Writing and Communication
 
