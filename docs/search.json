@@ -81,7 +81,7 @@
     "href": "index.html#now-what-about-claude-code",
     "title": "AI Tools for Research",
     "section": "Now what about Claude Code?",
-    "text": "Now what about Claude Code?\n\nClaude Code has a VS Code extenion, which is similar to Positron Assistant: both provide agentic capabilities\nAssistant is tailored for data science with R and Python; Claude Code more towards general software engineering\nClaude Code can be used in VS Code or Positron; Assistant can only be used in Positron\nAssistant is tightly integrated into Positron IDE\nAssistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently not with Claude Pro monthly subscription (that might change though)"
+    "text": "Now what about Claude Code?\n\nClaude Code has a VS Code extenion, which is similar to Positron Assistant: both provide agentic capabilities\nAssistant is tailored for data science with R and Python; Claude Code more towards general software engineering\nClaude Code can be used in VS Code or Positron; Assistant can only be used in Positron (and is tightly integrated)\nAssistant is BYOK; Claude Code only uses Claude models\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently not with Claude Pro monthly subscription (that might change though)"
   },
   {
     "objectID": "index.html#getting-fancy-customizing-your-ai-coding-assistants",
