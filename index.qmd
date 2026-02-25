@@ -175,10 +175,12 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 
 ## Best Practices
 
-1. **Verify** AI-generated content - *keep a human in the loop*
-2. **Remain** accountable
+1. **Remain** accountable
+2. **Verify** AI-generated content - *keep a human in the loop*
+
+3. **Check** sources
 3. **Cite** usage appropriately
-4. **Check** sources
+
 5. **Maintain** data privacy (as needed)
 6. **Stay** critical, skeptical, open-minded, and curious
 
