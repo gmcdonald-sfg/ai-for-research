@@ -146,6 +146,7 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
   - Can generate issues, pull requests, documentation, etc
   - Can be used to review code and suggest improvements (either reviewing PRs, or even reviewing code *before* it's committed!)
   - Can help with project organization and workflow
+  - Can be done either on GitHub website, or directly through Positron or VS Code IDE
 
 - Various other AI-powered tools in Slack, Asana, Zoom, etc
 
