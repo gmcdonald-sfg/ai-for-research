@@ -32,21 +32,21 @@
     "href": "index.html#research-process-15-idea-generation",
     "title": "AI Tools for Research",
     "section": "Research process (1/5): Idea Generation",
-    "text": "Research process (1/5): Idea Generation\n\nGemini, Claude, GPT\nGemini Deep Research"
+    "text": "Research process (1/5): Idea Generation\n\nGemini, Claude, GPT\nGemini Deep Research\nGemini Gems"
   },
   {
     "objectID": "index.html#research-process-25-literature-review",
     "href": "index.html#research-process-25-literature-review",
     "title": "AI Tools for Research",
     "section": "Research process (2/5): Literature Review",
-    "text": "Research process (2/5): Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
+    "text": "Research process (2/5): Literature Review\n\nGoogle Scholar Labs\nGemini Deep Research\nGemini Gems\nGemini Notebook LM\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus"
   },
   {
     "objectID": "index.html#research-process-35-data-analysis",
     "href": "index.html#research-process-35-data-analysis",
     "title": "AI Tools for Research",
     "section": "Research process (3/5): Data analysis",
-    "text": "Research process (3/5): Data analysis\nCoding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nGreat for data science workflows (but anything really)\nUsually “BYO-key”\n\nCan use any LLM backend - Claude, Gemini, etc.\nYou’re also subject to that backend’s data privacy policies"
+    "text": "Research process (3/5): Data analysis\nCoding agents: GitHub Copilot, Positron Assistant, Positron Databot, Claude Code, etc\n\nIntegrated directly into your IDE\nHave access to your codebase, file structure\nCan operate in different modes: ask, edit, or agent, depending on your needs and comfort level\nGreat for data science workflows (but anything really)\nOften “BYO-key”\n\nCan use any LLM backend - Claude, Gemini, etc.\nYou’re also subject to that backend’s data privacy policies"
   },
   {
     "objectID": "index.html#positron-databot",
@@ -84,6 +84,13 @@
     "text": "Now what about Claude Code?\n\nClaude Code has a VS Code extenion, which is similar to Positron Assistant: Both provide chat pane with agentic capabilities\nAssistant is tailored for data science with R and Python; Claude Code more towards general software engineering\nClaude Code can be used in VS Code or Positron; Assistant can only be used in Positron\nAssistant is tightly integrated into Positron IDE (e.g., allows in-line assistance)\nAssistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently not with Claude Pro monthly subscription (that might change though)"
   },
   {
+    "objectID": "index.html#getting-fancy-customizing-your-ai-coding-assistants",
+    "href": "index.html#getting-fancy-customizing-your-ai-coding-assistants",
+    "title": "AI Tools for Research",
+    "section": "Getting fancy: Customizing your AI coding assistants",
+    "text": "Getting fancy: Customizing your AI coding assistants\n\ninstructions.md: Specify custom “always-on” instructions: coding standards, style guides, or best practices for your assistant to follow across all scripts (this specifies the how)\n\nAlternatively specified in claude.md for Claude Code, or poistitron.md for Positron Assistant\nCan also make file-specific instructions\n\nprompts.md: Define reusables prompts for tasks you commonly ask your assistant to do (e.g., “write a function that does X”, etc) (this specifies the what)\nagents.md: Create custom agent personas that can perform specific tasks, such as data cleaning, EDA, or model training (this specifies the who)\nskills.md: Define custom standardized skills and workflows you want your custom agents to be proficient in (this specifies the what + how + who)\nLearn more here"
+  },
+  {
     "objectID": "index.html#research-process-45-writing-and-communication",
     "href": "index.html#research-process-45-writing-and-communication",
     "title": "AI Tools for Research",
@@ -109,7 +116,7 @@
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
     "section": "Getting Started",
-    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a Positron coding assistent for your next data science task"
+    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry coding assistent for your next data science task\nTry making your own custom instructions file"
   },
   {
     "objectID": "index.html#resources",

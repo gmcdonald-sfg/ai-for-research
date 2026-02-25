@@ -57,23 +57,25 @@ format:
 
 - Gemini, Claude, GPT
 - Gemini Deep Research
+- Gemini Gems
 
 ## Research process (2/5): Literature Review
 
 - Google Scholar Labs
 - Gemini Deep Research
+- Gemini Gems
 - Gemini Notebook LM
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
 ## Research process (3/5): Data analysis
 
-**Coding agents: GitHub Copilot, Cursor, Positron Assistant, Positron Databot**
+**Coding agents: GitHub Copilot, Positron Assistant, Positron Databot, Claude Code, etc**
 
 - Integrated directly into your IDE
 - Have access to your codebase, file structure
 - Can operate in different modes: **ask**, **edit**, or **agent**, depending on your needs and comfort level
 - Great for data science workflows (but anything really)
-- Usually **“BYO-key”**
+- Often **“BYO-key”**
   - Can use any LLM backend - Claude, Gemini, etc.
   - You're also subject to that backend's data privacy policies
 
@@ -107,7 +109,6 @@ Check out [Claude's Constitution](https://www.anthropic.com/constitution)
 Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsletter/) and [R Benchmark tests](https://skaltman-model-eval-app.share.connect.posit.cloud)
 
 
-
 ## Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?
 
 - Claude requires a paid account
@@ -127,6 +128,16 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 - Assistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models
 
 - **Important**: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently *not* with Claude Pro monthly subscription (that might change though)
+
+## Getting fancy: Customizing your AI coding assistants
+
+- **instructions.md**: Specify custom "always-on" instructions: coding standards, style guides, or best practices for your assistant to follow across all scripts (this specifies the *how*)
+  - Alternatively specified in **claude.md** for Claude Code, or **poistitron.md** for Positron Assistant
+  - Can also make file-specific instructions
+- **prompts.md**: Define reusables prompts for tasks you commonly ask your assistant to do (e.g., "write a function that does X", etc) (this specifies the *what*)
+- **agents.md**: Create custom agent personas that can perform specific tasks, such as data cleaning, EDA, or model training (this specifies the *who*)
+- **skills.md**: Define custom standardized skills and workflows you want your custom agents to be proficient in (this specifies the *what* + *how* + *who*)
+- Learn more [here](https://code.visualstudio.com/docs/copilot/customization/overview)
 
 ## Research process (4/5): Writing and Communication
 
@@ -158,7 +169,8 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 
 1. Try Gemini for literature summaries
 2. Become familiar with GitHub Copilot
-3. Try a Positron coding assistent for your next data science task
+3. Try coding assistent for your next data science task
+4. Try making your own custom instructions file
 
 ## Resources
 
