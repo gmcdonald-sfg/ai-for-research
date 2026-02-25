@@ -81,14 +81,14 @@
     "href": "index.html#now-what-about-claude-code",
     "title": "AI Tools for Research",
     "section": "Now what about Claude Code?",
-    "text": "Now what about Claude Code?\n\nClaude Code has a VS Code extenion, which is similar to Positron Assistant: Both provide chat pane with agentic capabilities\nAssistant is tailored for data science with R and Python; Claude Code more towards general software engineering\nClaude Code can be used in VS Code or Positron; Assistant can only be used in Positron\nAssistant is tightly integrated into Positron IDE (e.g., allows in-line assistance)\nAssistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently not with Claude Pro monthly subscription (that might change though)"
+    "text": "Now what about Claude Code?\n\nClaude Code has a VS Code extenion, which is similar to Positron Assistant: both provide agentic capabilities\nAssistant is tailored for data science with R and Python; Claude Code more towards general software engineering\nClaude Code can be used in VS Code or Positron; Assistant can only be used in Positron\nAssistant is tightly integrated into Positron IDE\nAssistant is BYOK, so can use any LLM backend; Claude Code can only use Claude models\nImportant: Both Positon Assistant and Databot require an API key; so this works with pay-as-you-go Claude, but currently not with Claude Pro monthly subscription (that might change though)"
   },
   {
     "objectID": "index.html#getting-fancy-customizing-your-ai-coding-assistants",
     "href": "index.html#getting-fancy-customizing-your-ai-coding-assistants",
     "title": "AI Tools for Research",
     "section": "Getting fancy: Customizing your AI coding assistants",
-    "text": "Getting fancy: Customizing your AI coding assistants\n\ninstructions.md: Specify custom “always-on” instructions: coding standards, style guides, etc to use across all scripts (specify the how)\n\nAlternatively specified in claude.md for Claude Code, or poistitron.md for Positron Assistant\n\nprompts.md: Define reusables prompts for tasks you commonly ask your assistant to do (e.g., “write a function that does X”, etc) (specify the what)\nagents.md: Create custom agent personas that can perform specific tasks, such as data cleaning, EDA, or model training (specify the who)\nskills.md: Define custom standardized skills and workflows you want your custom agents to be proficient in (specify the what + how + who)\nLearn more here"
+    "text": "Getting fancy: Customizing your AI coding assistants\n\ninstructions.md: Specify custom “always-on” instructions: coding standards, style guides, etc to use across all scripts (specify the how) (also called claude.md or positron.md)\nprompts.md: Define reusables prompts for tasks you commonly ask your assistant to do (e.g., “write a function that does X”, etc) (specify the what)\nagents.md: Create custom agent personas that can perform specific tasks, such as data cleaning, EDA, or model training (specify the who)"
   },
   {
     "objectID": "index.html#research-process-45-writing-and-communication",
