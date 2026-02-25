@@ -102,7 +102,7 @@
     "href": "index.html#research-process-55-collaboration-and-project-management",
     "title": "AI Tools for Research",
     "section": "Research process (5/5): Collaboration and Project Management",
-    "text": "Research process (5/5): Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
+    "text": "Research process (5/5): Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements (either reviewing PRs, or even reviewing code before it’s committed!)\nCan help with project organization and workflow\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
   },
   {
     "objectID": "index.html#examples",
