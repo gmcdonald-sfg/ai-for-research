@@ -100,7 +100,7 @@ format:
 
 ## What LLM is best for coding?
 
-Short answer: **Claude** (*for R, at least for now*)
+Short answer: **Claude** (*for R, at least for now...*)
 
 ![](images/llm_r_comparison.png)
 
