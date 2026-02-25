@@ -111,12 +111,11 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 
 ## Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?
 
-- Claude requires a paid account
-- GitHub Copilot has a free education account option; but is otherwise paid as well
-- GitHub Copilot gives access to Claude models (and others)
+- Claude requires a paid account; Copilot has  options
+- Copilot gives access to Claude models, but also others
 - Using Claude directly gives you access to full context window - it is capped when going through Copilot
-- Using Claude directly is faster - otherwise everything goes through the Copilot proxy interface
-- Using Claude through Copilot can quickly exhaust your Copliot credits (at least ith the education account)
+- Using Claude directly is faster
+- Using Claude through Copilot can quickly exhaust your Copliot credits (at least wotj the education account)
 
 
 ## Now what about Claude Code?
@@ -164,8 +163,8 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 
 1. Try Gemini for literature summaries
 2. Become familiar with GitHub Copilot
-3. Try coding assistent for your next data science task
-4. Try making your own custom instructions file
+3. Try a coding assistent for your next data science task
+4. Try making your own custom instructions file or Gem
 
 ## Resources
 
@@ -180,9 +179,8 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 2. **Remain** accountable
 3. **Cite** usage appropriately
 4. **Check** sources
-5. **Maintain** data privacy
-6. **Document** your workflow
-7. **Stay** critical, skeptical, and curious
+5. **Maintain** data privacy (as needed)
+6. **Stay** critical, skeptical, open-minded, and curious
 
 ## Thanks!
 

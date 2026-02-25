@@ -74,7 +74,7 @@
     "href": "index.html#which-llm-backend-for-positron-assistant-and-databot-claude-or-github-copilot-with-claude",
     "title": "AI Tools for Research",
     "section": "Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?",
-    "text": "Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?\n\nClaude requires a paid account\nGitHub Copilot has a free education account option; but is otherwise paid as well\nGitHub Copilot gives access to Claude models (and others)\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster - otherwise everything goes through the Copilot proxy interface\nUsing Claude through Copilot can quickly exhaust your Copliot credits (at least ith the education account)"
+    "text": "Which LLM backend for Positron Assistant and Databot: Claude or GitHub Copilot with Claude?\n\nClaude requires a paid account; Copilot has options\nCopilot gives access to Claude models, but also others\nUsing Claude directly gives you access to full context window - it is capped when going through Copilot\nUsing Claude directly is faster\nUsing Claude through Copilot can quickly exhaust your Copliot credits (at least wotj the education account)"
   },
   {
     "objectID": "index.html#now-what-about-claude-code",
@@ -116,7 +116,7 @@
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
     "section": "Getting Started",
-    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry coding assistent for your next data science task\nTry making your own custom instructions file"
+    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a coding assistent for your next data science task\nTry making your own custom instructions file or Gem"
   },
   {
     "objectID": "index.html#resources",
@@ -130,7 +130,7 @@
     "href": "index.html#best-practices",
     "title": "AI Tools for Research",
     "section": "Best Practices",
-    "text": "Best Practices\n\nVerify AI-generated content - keep a human in the loop\nRemain accountable\nCite usage appropriately\nCheck sources\nMaintain data privacy\nDocument your workflow\nStay critical, skeptical, and curious"
+    "text": "Best Practices\n\nVerify AI-generated content - keep a human in the loop\nRemain accountable\nCite usage appropriately\nCheck sources\nMaintain data privacy (as needed)\nStay critical, skeptical, open-minded, and curious"
   },
   {
     "objectID": "index.html#thanks",
