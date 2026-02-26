@@ -4,14 +4,14 @@
     "href": "index.html#welcome",
     "title": "AI Tools for Research",
     "section": "Welcome",
-    "text": "Welcome\n\nAI is transforming the way research is done\nAI is rapidly evolving - tools and capability changing daily (this will probably all be out of date next week!)\nToday I’ll focus on tools I’ve personally used, but this is by no means exhaustive\nSince tools are changing so rapidly, we’ll also talk about best practices\nI’m no AI expert - but rather just an enthuastic (and optimistically skeptical) user\nI also really want to hear from you"
+    "text": "Welcome\n\nAI is transforming the way research is done\nAI is rapidly evolving - tools and capability changing daily (this talk will probably be out of date by next week!)\nToday I’ll focus on tools I’ve personally used, but this is by no means exhaustive\nSince tools are changing so rapidly, we’ll also talk about best practices\nI’m no AI expert - but rather just an enthuastic (and optimistically skeptical) user\nI also really want to hear from you"
   },
   {
-    "objectID": "index.html#ai-can-help-with-each-stage-of-the-research-process",
-    "href": "index.html#ai-can-help-with-each-stage-of-the-research-process",
+    "objectID": "index.html#ai-can-help-with-every-stage-of-the-research-process",
+    "href": "index.html#ai-can-help-with-every-stage-of-the-research-process",
     "title": "AI Tools for Research",
-    "section": "AI can help with each stage of the research process",
-    "text": "AI can help with each stage of the research process\n\nIdea generation\nLiterature review\nData analysis\nWriting and communication\nCollaboration and project management"
+    "section": "AI can help with every stage of the research process",
+    "text": "AI can help with every stage of the research process\n\nIdea generation\nLiterature review\nData analysis\nWriting and communication\nCollaboration and project management"
   },
   {
     "objectID": "index.html#a-bit-on-different-llm-options",
@@ -19,6 +19,13 @@
     "title": "AI Tools for Research",
     "section": "A bit on different LLM options",
     "text": "A bit on different LLM options\n\nGoogle’s Gemini\n\nGeneral purpose, good for lit review, idea generation, etc\nExcellent data privacy protections through UCSB license\n\nAnthropic’s Claude\n\nExcellent for coding\nDirect agentic integration with your IDE\n\nGitHub Copilot\n\nDesigned for coding, integration with your IDE and Github\nCan use many LLM backends (Gemini, Claude, GPT, etc.)"
+  },
+  {
+    "objectID": "index.html#what-llm-is-best-for-coding",
+    "href": "index.html#what-llm-is-best-for-coding",
+    "title": "AI Tools for Research",
+    "section": "What LLM is best for coding?",
+    "text": "What LLM is best for coding?\nShort answer: Claude (for R, at least for now…)\n\nCheck out Claude’s Constitution\nKeep an eye on Posit’s AI Newsletter and R Benchmark tests"
   },
   {
     "objectID": "index.html#data-privacy",
@@ -63,13 +70,6 @@
     "text": "Positron Assistant\n\nDeveloped by Posit team for Positron\nGeneral coding assistant for wide range of tasks\nSimilar to Claude Caude, but specifically tailored for data science workflows, with specific R and Python tooling\nCan be used for code generation, debugging, documentation, and more\nHas access to your codebase and file structure, so it can provide more context-aware assistance\nBYOK: Can use various LLM backends (Claude, GPT, etc.)\nCan be used in ask, edit, or agent mode"
   },
   {
-    "objectID": "index.html#what-llm-is-best-for-coding",
-    "href": "index.html#what-llm-is-best-for-coding",
-    "title": "AI Tools for Research",
-    "section": "What LLM is best for coding?",
-    "text": "What LLM is best for coding?\nShort answer: Claude (for R, at least for now…)\n\nCheck out Claude’s Constitution\nKeep an eye on Posit’s AI Newsletter and R Benchmark tests"
-  },
-  {
     "objectID": "index.html#which-llm-backend-for-positron-assistant-and-databot-claude-or-github-copilot-with-claude",
     "href": "index.html#which-llm-backend-for-positron-assistant-and-databot-claude-or-github-copilot-with-claude",
     "title": "AI Tools for Research",
@@ -95,7 +95,7 @@
     "href": "index.html#research-process-45-writing-and-communication",
     "title": "AI Tools for Research",
     "section": "Research process (4/5): Writing and Communication",
-    "text": "Research process (4/5): Writing and Communication\n\nGemini, Claude, GPT\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus\nGemini Nano Banana for image generation (e.g., flowcharts, technical diagrams, etc)"
+    "text": "Research process (4/5): Writing and Communication\n\nGemini, Claude, GPT\nSpecialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus\nGemini Nano Banana for image generation (e.g., flowcharts, technical diagrams, etc)\n\n“Nano Banana Pro is the first image model that can sometimes generate coherent technical diagrams”\n- Sara Altman and Simon Couch, Posit (source)"
   },
   {
     "objectID": "index.html#research-process-55-collaboration-and-project-management",
@@ -103,6 +103,13 @@
     "title": "AI Tools for Research",
     "section": "Research process (5/5): Collaboration and Project Management",
     "text": "Research process (5/5): Collaboration and Project Management\n\nGitHub Copilot for project management and collaboration\n\nCan generate issues, pull requests, documentation, etc\nCan be used to review code and suggest improvements (either reviewing PRs, or even reviewing code before it’s committed!)\nCan help with project organization and workflow\nCan be done either on GitHub website, or directly through Positron or VS Code IDE\n\nVarious other AI-powered tools in Slack, Asana, Zoom, etc"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "AI Tools for Research",
+    "section": "Resources",
+    "text": "Resources\n\nGenAI Tools at UCSB\nFree Copilot course from GitHub\nGetting started with Positron Assistant\nIntroducing Databot: An AI assistant for exploratory data analysis"
   },
   {
     "objectID": "index.html#examples",
@@ -116,14 +123,7 @@
     "href": "index.html#getting-started",
     "title": "AI Tools for Research",
     "section": "Getting Started",
-    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a coding assistent for your next data science task\nTry making your own custom instructions file or Gem"
-  },
-  {
-    "objectID": "index.html#resources",
-    "href": "index.html#resources",
-    "title": "AI Tools for Research",
-    "section": "Resources",
-    "text": "Resources\n\nGenAI Tools at UCSB\nFree Copilot course from GitHub\nGetting started with Positron Assistant\nIntroducing Databot: An AI assistant for exploratory data analysis"
+    "text": "Getting Started\nRecommended First Steps:\n\nTry Gemini for literature summaries\nBecome familiar with GitHub Copilot\nTry a coding assistant for your next data science task\nTry making your own custom instructions file or Gem"
   },
   {
     "objectID": "index.html#best-practices",
@@ -144,6 +144,6 @@
     "href": "index.html#discussion",
     "title": "AI Tools for Research",
     "section": "Discussion",
-    "text": "Discussion\n\nWhat AI tools are you currently using in your research?\nWhat challenges have you faced with AI tools?\nWhat are your thoughts on the ethical implications of AI in research?\nWhat are your best practices for using AI?"
+    "text": "Discussion\n\nWhat AI tools are you currently using in your research?\nWhat challenges have you faced with AI tools?\nHow can we use AI ethically and responsibly for environmental research?\nWhat are your best practices for using AI?"
   }
 ]
