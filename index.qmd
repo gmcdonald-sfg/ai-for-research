@@ -72,10 +72,10 @@ Keep an eye on Posit's [AI Newsletter](https://posit.co/blog/2026-02-13-ai-newsl
 
 ## Research process (2/5): Literature Review
 
-- Google Scholar Labs
 - Gemini Deep Research
 - Gemini Gems
 - Gemini Notebook LM
+- Google Scholar Labs
 - Specialized tools: Research Rabbit, Nature Research Assistant, Elicit, Consensus
 
 ## Research process (3/5): Data analysis
